@@ -13,4 +13,4 @@ We want to try to provide information about new jobs in a playful way. For this 
 The project was programmed with Java in Eclipse. The GUI-Toolkits Swing and AWT were used.
 
 ## Who worked on the projekt?
-This was a teamwork with Isabella Freese and Melody Fuhrmann
+This was a teamwork with Mona Orschmann and Melody Fuhrmann
